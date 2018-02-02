@@ -1,6 +1,17 @@
 Guestlist: 
 
 - AP WAS HERE!
+<<<<<<< HEAD
 The Kai typed this
+=======
+
+
+- Michelle was here!
+
+-Rob Rappoport was here :DDDDDDD
+
+
+>>>>>>> master
 
 Morgan Macri
+
