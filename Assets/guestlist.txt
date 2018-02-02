@@ -3,10 +3,19 @@ Guestlist:
 - AP WAS HERE!
 
 
+
+- Michelle was here!
+
 -Rob Rappoport was here :DDDDDDD
 
 
 
+<<<<<<< HEAD
+
 Morgan Macri
 
 -Avery Holmes
+=======
+Morgan Macri
+
+>>>>>>> master
