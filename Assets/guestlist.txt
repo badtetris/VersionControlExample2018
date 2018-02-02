@@ -1,21 +1,19 @@
 Guestlist: 
 
+<<<<<<< HEAD
 - AP WAS HERE!
 
+AP WAS HERE!
 
-
-- Michelle was here!
-
+The Kai typed this 
+Michelle was here!
 -Rob Rappoport was here :DDDDDDD
 
 
+>>>>>>> master
 
-<<<<<<< HEAD
 
 Morgan Macri
 
 -Avery Holmes
-=======
-Morgan Macri
-
->>>>>>> master
+Poop - Jordan
